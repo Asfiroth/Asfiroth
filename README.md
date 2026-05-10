@@ -1,4 +1,4 @@
-# Asfiroth — Senior Software Engineer & Cloud Architect
+# Asfiroth — Senior Software Engineer
 
 Building secure distributed systems, cloud-native platforms, fintech infrastructure, developer tooling, and scalable mobile applications.
 
