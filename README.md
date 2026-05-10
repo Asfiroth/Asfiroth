@@ -6,12 +6,11 @@ Building secure distributed systems, cloud-native platforms, fintech infrastruct
 
 ## 🧑‍💻 About Me
 
-- Senior Software Engineer focused on distributed systems, cloud-native infrastructure, and secure platform architecture
-- Experience across fintech, blockchain, identity systems, DevSecOps, and cross-platform mobile development
-- Architecting Kubernetes platforms, CI/CD systems, authentication flows, and scalable APIs
-- Strong focus on security, compliance, observability, and operational resilience
-- Consultant & Cloud Architect for financial sector platforms
-- Builder of backend systems, internal tooling, mobile applications, and developer platforms
+Senior Software Engineer specializing in distributed systems, cloud-native infrastructure, secure platform architecture, and fintech systems.
+
+Experience designing and operating Kubernetes platforms, authentication systems, CI/CD pipelines, developer tooling, and cross-platform mobile applications across fintech and blockchain environments.
+
+Strong focus on security, operational resilience, observability, scalability, and long-term maintainability.
 
 ---
 
