@@ -29,60 +29,18 @@ Building secure distributed systems, cloud-native platforms, fintech infrastruct
 
 ## ⚙️ Tech Stack
 
-### Frontend
-- React
-- Next.js
-- TypeScript
-- TailwindCSS
 
-### Backend
-- .NET / ASP.NET Core
-- Go
-- Node.js / TypeScript
-- Python
-
-### Architecture
-- Clean Architecture
-- Domain-Driven Design (DDD)
-- CQRS
-- Event-Driven Systems
-- Modular Monoliths & Microservices
-
-### Cloud & DevOps
-- Azure
-- Kubernetes
-- Docker
-- ArgoCD
-- Helm / Helmfile
-- Azure DevOps
-- GitHub Actions
-
-### Data
-- SQL Server
-- PostgreSQL
-- MongoDB
-- Redis
-
-### Security & Identity
-- OAuth2 / OpenID Connect
-- Passkeys / WebAuthn
-- HMAC-secured integrations
-- Zero Trust patterns
-
-### Messaging & Eventing
-- Azure Service Bus
-- Kafka
-- RabbitMQ
-
-### Mobile
-- Uno Platform
-- Flutter
-- React Native
-
-### Observability
-- Prometheus
-- Grafana
-- OpenTelemetry
+| Category | Technologies |
+|---|---|
+| Frontend | React, Next.js, TypeScript, TailwindCSS |
+| Backend | .NET / ASP.NET Core, Go, Node.js, Python |
+| Mobile | Uno Platform, Flutter, React Native |
+| Architecture | Clean Architecture, DDD, CQRS, Event-Driven Systems |
+| Cloud & DevOps | Azure, Kubernetes, Docker, ArgoCD, Helm, Helmfile, Azure DevOps, GitHub Actions |
+| Data | SQL Server, PostgreSQL, MongoDB, Redis |
+| Security & Identity | Keycloak, OAuth2/OIDC, Passkeys, WebAuthn, HMAC-secured integrations |
+| Messaging & Eventing | Azure Service Bus, Kafka, RabbitMQ |
+| Observability | Prometheus, Grafana, OpenTelemetry |
 
 ---
 
