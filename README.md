@@ -121,5 +121,5 @@ Key contributions:
 
 ## 📫 Connect
 
-- GitHub: https://github.com/asfiroth
+- Personal site: https://asfiroth.net/
 - LinkedIn: https://www.linkedin.com/in/edwardtostring/?locale=en-US
